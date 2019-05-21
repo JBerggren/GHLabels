@@ -1,0 +1,15 @@
+#ghl-container{
+    position: absolute;
+    left: 0;
+    top:0;
+    height: 100%;
+    width: 300px;
+    background-color:#eee;
+    z-index:1;
+    padding: 15px;    
+}
+
+#ghl-container ul{
+    margin-left:10px;
+    font-size: 14px;
+}
